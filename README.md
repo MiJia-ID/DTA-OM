@@ -12,7 +12,7 @@ Accurate prediction of drug–target affinity (DTA) is essential for drug screen
 
 ## 0. Overview of MTAF-DTA
 
-![fig.1](fig.1.jpeg)
+![fig.1](fig.1.jpg)
 
 Set up the environment:
 
